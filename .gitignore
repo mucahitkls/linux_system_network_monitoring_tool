@@ -1,0 +1,15 @@
+# Environment folder/files
+.idea
+.idea/*
+venv
+__pycache__
+
+# VM environment files/folders
+.vagrant
+.vagrant/*
+vagrant
+vagrant/*
+# Config files and log files
+app.config
+app.log
+*.config
